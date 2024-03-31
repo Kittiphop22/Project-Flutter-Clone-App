@@ -1,0 +1,9 @@
+Source : 
+https://github.com/afgprogrammer/Flutter-Socks-Shop/tree/master
+https://www.youtube.com/watch?v=53Z-s-a_ne8
+
+Package:
+- animate_do ^3.1.2
+- page_transition ^2.1.0
+- cupertino_icons ^1.0.2
+- google_fonts ^6.2.1
